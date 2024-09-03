@@ -10,50 +10,37 @@ RosarioSIS is "free" software released under the [GNU General Public License ver
 
 Your [contributions](https://www.rosariosis.org/contribute/) are welcome.
 
-
 Installation
 ------------
 
 Minimum requirements: PHP 5.5.9 & PostgreSQL 8.4 or MySQL 5.6/MariaDB.
-
 For installation directions, consult the [INSTALL.md](https://gitlab.com/francoisjacquet/rosariosis/-/blob/mobile/INSTALL.md) file.
-
 
 Documentation
 -------------
 
 [Documentation](https://www.rosariosis.org/documentation/): Quick Setup Guide, User Manuals, Report samples, Tips, Wiki.
 
-
 Demo
 ----
 
 Try RosarioSIS: access the [online demonstration](https://www.rosariosis.org/demo/).
-
 
 Official site
 -------------
 
 rosariosis.org: [English](https://www.rosariosis.org) • [Español](https://www.rosariosis.org/es/) • [Français](https://www.rosariosis.org/fr/)
 
-
 Screenshots
 -----------
 
 ![Calendars](https://www.rosariosis.org/wp-content/uploads/2021/08/rosariosis_calendar_en_2021.png)
-
 ![Student Info](https://www.rosariosis.org/wp-content/uploads/2021/08/rosariosis_students_en_2021.png)
-
 ![Student Schedule](https://www.rosariosis.org/wp-content/uploads/2021/08/rosariosis_scheduling_en_2021.png)
-
 ![Gradebook](https://www.rosariosis.org/wp-content/uploads/2021/08/rosariosis_grades_en_2021.png)
-
 ![Take Attendance](https://www.rosariosis.org/wp-content/uploads/2021/08/rosariosis_attendance_en_2021.png)
-
 ![Discipline](https://www.rosariosis.org/wp-content/uploads/2021/08/rosariosis_discipline_en_2021.png)
-
 ![Fees](https://www.rosariosis.org/wp-content/uploads/2021/08/rosariosis_student_billing_en_2021.png)
-
 
 About
 -----
