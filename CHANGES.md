@@ -54,6 +54,12 @@ Changes in 12.0
 - Rename CalendarDayNewAssignmentHTMLDefault() function to CalendarDayNewEventHTMLDefault() in CalendarDay.inc.php
 - Deprecate `_getAttendanceDayRET()` & `_getAttendanceRET()` functions in ReportCards.fnc.php
 - Add & use `_getDailyAbsencesMP()` & `_getOtherAttendanceMP()` functions instead in ReportCards.fnc.php
+- SQL rewrite "ORDER BY COL IS NOT NULL DESC" to its equivalent "ORDER BY COL IS NULL", program wide
+- Close #348 Add School Year & Principal to Substitutions in Letters.php
+
+Changes in 11.8.4
+-----------------
+- CSS fix #349 set color for code select (was white on white background) in colors.css
 
 Changes in 11.8.3
 -----------------
